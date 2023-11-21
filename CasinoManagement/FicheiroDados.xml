@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DADOS>
+  <CASINO>
+    <NAME>Casino Figueira da Foz</NAME>
+    <LOCALITY>Coimbra, Figueira da Foz</LOCALITY>
+  </CASINO>
+  <CASINO>
+    <NAME>Casino Estoril</NAME>
+    <LOCALITY>Estoril</LOCALITY>
+  </CASINO>
+  <CASINO>
+    <NAME>Casino Vilamoura</NAME>
+    <LOCALITY>Algarve, Vilamoura</LOCALITY>
+  </CASINO>
+  <CASINO>
+    <NAME>Casino Monte Gordo</NAME>
+    <LOCALITY>Algarve, Monte Gordo</LOCALITY>
+  </CASINO>
+</DADOS>
